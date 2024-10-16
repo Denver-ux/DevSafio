@@ -1,0 +1,349 @@
+{
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-14 23:51:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-10-14 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root_0": "2024-10-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-10-14 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-10-14 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2024-10-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-10-14 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-10-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-14 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-10-14 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-10-14 23:47:09 +0000",
+      "minecraft:beach": "2024-10-15 00:08:50 +0000",
+      "minecraft:river": "2024-10-14 23:57:53 +0000",
+      "minecraft:jungle": "2024-10-14 23:56:52 +0000",
+      "minecraft:plains": "2024-10-14 23:46:19 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-14 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-10-15 00:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-15 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
